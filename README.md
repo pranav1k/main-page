@@ -1,7 +1,8 @@
 # pkk (main page)
 
 A personal dashboard showcasing tools built by me.
-**Live at:** [pkk.in.eu.org](https://pkk.in.eu.org)
+
+**Deployed at:** [pkk.in.eu.org](https://pkk.in.eu.org)
 
 ---
 
