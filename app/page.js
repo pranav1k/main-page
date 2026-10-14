@@ -8,7 +8,7 @@ export default function Home() {
     <div className="w-[80dvw] font-mono text-gray-200 min-h-screen bg-transparent justify-evenly flex flex-col">
       <div className="p-5 text-6xl font-semibold"><h2>pkk</h2></div>
       <div className="p-5">
-        <p className="text-2xl my-4">Random shit i've made</p>
+        <p className="text-2xl my-4">Random shit i&apos;ve made</p>
         <div className="grid grid-cols-1 md:grid-cols-3">
           <a className="p-2 m-2 text-xl flex items-center hover:text-transparent bg-white bg-clip-text hover:bg-gradient-to-r focus:text-transparent focus:bg-gradient-to-r from-fuchsia-400 from-10% to-pink-200 to-100%" href="https://orbitune.pkk.in.eu.org">
             <PiMusicNotesFill className="text-fuchsia-400" />
