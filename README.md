@@ -13,6 +13,7 @@ This lists various tools and web apps:
 | Project | Description | Link |
 | :--- | :--- | :--- |
 | **Orbitune** | Online music player | [orbitune.pkk.in.eu.org](https://orbitune.pkk.in.eu.org) |
+| **Material mpv** | experimental | [pranav1k/material-mpv](https://github.com/pranav1k/material-mpv) |
 | **Weather** | Weather application | [wether.pkk.in.eu.org](https://wether.pkk.in.eu.org) |
 | **URL Shortener** | URL compressor utility | [shorten.pkk.in.eu.org](https://shorten.pkk.in.eu.org) |
 | **URL Shortener Addon** | Firefox browser extension for quick shortening | [Firefox Add-ons](https://addons.mozilla.org/en-GB/firefox/addon/temp-url-shortener/) |

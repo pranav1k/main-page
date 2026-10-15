@@ -2,6 +2,7 @@ import { TiWeatherCloudy } from "react-icons/ti";
 import { HiOutlineScissors } from "react-icons/hi";
 import { MdOutlineFileDownload, MdOutlineQrCode2, MdMusicNote } from "react-icons/md";
 import { PiBombBold, PiMusicNotesFill } from "react-icons/pi";
+import { FaRegCirclePlay } from "react-icons/fa6";
 
 export default function Home() {
   return (
@@ -13,6 +14,10 @@ export default function Home() {
           <a className="p-2 m-2 text-xl flex items-center hover:text-transparent bg-white bg-clip-text hover:bg-gradient-to-r focus:text-transparent focus:bg-gradient-to-r from-fuchsia-400 from-10% to-pink-200 to-100%" href="https://orbitune.pkk.in.eu.org">
             <PiMusicNotesFill className="text-fuchsia-400" />
             <p className="p-1">Orbitune</p>
+          </a>
+          <a className="p-2 m-2 text-xl flex items-center hover:text-transparent bg-white bg-clip-text hover:bg-gradient-to-r focus:text-transparent focus:bg-gradient-to-r from-rose-400 from-10% to-fuchsia-200 to-100%" href="https://github.com/pranav1k/material-mpv">
+            <FaRegCirclePlay className="text-rose-400" />
+            <p className="p-1">Material mpv</p>
           </a>
           <a className="p-2 m-2 text-xl flex items-center hover:text-transparent focus:text-transparent focus:bg-gradient-to-r bg-white bg-clip-text hover:bg-gradient-to-r from-yellow-400 from-10% to-blue-600 to-100%" href="https://wether.pkk.in.eu.org">
             <TiWeatherCloudy className="text-yellow-400" />
